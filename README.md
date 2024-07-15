@@ -3,6 +3,10 @@
 ## Description
 This project analyzes customer reviews of British Airways. The aim is to derive insights and recommendations based on the data collected from various sources.
 
+![Screenshot 2024-07-15 011721](https://github.com/user-attachments/assets/3be40831-343d-4afa-8897-45eb414cca17)
+
+
+
 ## Business Relevant Metrics & Dimensions
 - **Metrics**:
   - Customer Satisfaction Score
